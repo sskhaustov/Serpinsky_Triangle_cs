@@ -1,0 +1,8 @@
+D:\labC\CKOT\CKOT\obj\Debug\ResolveAssemblyReference.cache
+D:\labC\CKOT\CKOT\obj\Debug\CKOT.Form1.resources
+D:\labC\CKOT\CKOT\obj\Debug\CKOT.Properties.Resources.resources
+D:\labC\CKOT\CKOT\obj\Debug\CKOT.csproj.GenerateResource.Cache
+D:\labC\CKOT\CKOT\bin\Debug\CKOT.exe
+D:\labC\CKOT\CKOT\bin\Debug\CKOT.pdb
+D:\labC\CKOT\CKOT\obj\Debug\CKOT.exe
+D:\labC\CKOT\CKOT\obj\Debug\CKOT.pdb
